@@ -6,5 +6,6 @@ public class A {
 		b.hellob();
 		System.out.println("fix A class");
 		System.out.println("finish merge");
+		System.out.println("add tag");
 	}
 }
