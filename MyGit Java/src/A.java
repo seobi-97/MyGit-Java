@@ -4,5 +4,6 @@ public class A {
 		System.out.println("A class");
 		B b=new B();
 		b.hellob();
+		System.out.println("fix A class");
 	}
 }
