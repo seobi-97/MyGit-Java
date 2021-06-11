@@ -5,6 +5,6 @@ public class A {
 		B b=new B();
 		b.hellob();
 		System.out.println("fix A class");
-		System.out.println("change devC branch");
+		System.out.println("finish merge");
 	}
 }
